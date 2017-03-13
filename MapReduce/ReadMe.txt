@@ -1,8 +1,3 @@
-DDS - Assignment 4 - 23 November 2016
-Siddharth Jain (1208639025)
-
-*Read me file for Equijoin using Mapreduce* 
-
 How Mapper works?
 Mapper takes tuples from two tables in text format as input and split each tuple line by using comma delimiter. 
 Here we will extract the second column of the tuple which is the join predicate, on the basis of which we have to join the two tables. 
