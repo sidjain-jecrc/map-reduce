@@ -1,0 +1,16 @@
+R, 2, Don, Larson, Newark, 555-3221
+S, 1, 33000, 10000, part1
+S, 2, 18000, 2000, part1
+R, 3, Sal, Maglite, Nutley, 555-6905
+S, 3, 24000, 5000, part1
+S, 4, 22000, 7000, part1
+R, 4, Bob, Turley, Passaic, 555-8908
+R, 5, Sallly, site, ley, 6905
+S, 5, 24, 59000, party
+R, 6, Tommy, Turkey, Rob, 453-4532
+S, 6, 220, 0000, partyparty
+R, 3, Bobby Deol, Tur, jurassic, 8908
+S, 6, 221, 1010, alive
+S, 2, 300, 2000, part2
+
+
